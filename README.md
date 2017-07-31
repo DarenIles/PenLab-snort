@@ -1,2 +1,4 @@
 # PenLab-snort
-Scripts to build a working snort VM for a pen test environment
+This is part of a series of scripts to build out a pen test lab.
+
+This focues on getting a working installation of snort.
